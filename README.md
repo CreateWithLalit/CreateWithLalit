@@ -1,4 +1,4 @@
-# Hi, I'm Lalit K. 👋
+# Hi, I'm Lalit
 
 Frontend Developer based in Noida, India — passionate about building clean, fast, and scalable web experiences.
 
