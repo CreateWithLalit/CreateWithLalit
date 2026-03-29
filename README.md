@@ -15,7 +15,7 @@ I enjoy turning ideas into real products using modern tools like **Next.js**, **
 `React` `Next.js` `Tailwind CSS`
 
 **Backend & Database**
-`Supabase` `PostgreSQL`
+`SQL` `PostgreSQL`
 
 **Tools & Workflow**
 `Git` `GitHub` `Vercel` `VS Code`
