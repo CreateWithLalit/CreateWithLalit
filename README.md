@@ -48,7 +48,6 @@ A portfolio website with an integrated admin panel for managing content dynamica
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio](https://myportfolio-chi-two-86.vercel.app)
-- 💼 [Upwork](https://www.upwork.com) — Available for freelance work
 - 🐙 [GitHub](https://github.com/CreateWithLalit)
 
 ---
